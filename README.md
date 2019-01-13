@@ -19,7 +19,3 @@ The Restaurant Manager is open source application and it provides how to build b
 * Moq
 * Angualar 4 - coming soon
 * WPF - coming soon
-
-**Development:**
-* [Jurabek Azizkhujaev](https://github.com/jurabek)
-
